@@ -1,0 +1,5 @@
+package main.java.com.hotel.Hotel.dto.response;
+public record HabitacionEstandarResponse(
+    Int camasIndividuales
+){ 
+}
